@@ -1,4 +1,5 @@
 # NLP-pos-neg-words
+Note: this Was a part of my Masters course work
 
 #Create a Keyword Sentiment Analyzer
 
